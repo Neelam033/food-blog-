@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FOOD BLOG PROJECT
 
 ## Description
@@ -34,3 +35,6 @@ Food Blog is my final project in HTML & CSS section (inside Front-end Developmen
 And many things ...
 
 **[Go to Food Blog](https://food-blog.vercel.app)**
+=======
+# food-blog-
+>>>>>>> 565c210f31ab27bf10092a69c055167b86436876
